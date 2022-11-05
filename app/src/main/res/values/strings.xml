@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Employee</string>
+    <string name="id">ID</string>
+    <string name="edit">Edit</string>
+    <string name="delete">delete</string>
+    <string name="employee_details">Employee Details</string>
+</resources>
